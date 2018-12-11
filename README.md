@@ -1,5 +1,5 @@
 # hmm
 
-A2 is continuous HMM model
+Continuous HMM model using message passing algorithm for inference
 
-A4 is mixture of expert for nonlinear function approximator
+Mixture of experts for nonlinear function approximator. Application: approxiamte a mixture of different non linear function
